@@ -1,6 +1,13 @@
-// Write a function that returns the provided string with
-// the first letter of each word capitalized. Make sure the
-// rest of the word is in lower case.
+// --- Directions
+
+// Write a function that splits an array (first argument)
+
+// into groups the length of size (second argument) and
+
+// returns them as a two-dimensional array.
+
 // --- Examples
-//   capitalize("I'm a little tea pot") --> 'I'm A Little Tea Pot'
-//   capitalize('sHoRt AnD sToUt') --> 'Short And Stout'
+
+// chunk(["a", "b", "c", "d"], 2) --> [[ "a", "b"], ["c", "d"]]
+
+// chunk([0, 1, 2, 3, 4, 5], 4) -->  [[0, 1, 2, 3], [4, 5]]
