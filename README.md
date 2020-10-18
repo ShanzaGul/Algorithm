@@ -1,13 +1,6 @@
-# Algorithm
-// Write a program that console logs the numbers
-// from 1 to n. But for multiples of three print
-// “fizz” instead of the number and for the multiples
-// of five print “buzz”. For numbers which are multiples
-// of both three and five print “fizzbuzz”.
-// --- Example
-//   fizzBuzz(5);
-//   1
-//   2
-//   fizz
-//   4
-//   buzz
+// Write a function that returns the provided string with
+// the first letter of each word capitalized. Make sure the
+// rest of the word is in lower case.
+// --- Examples
+//   capitalize("I'm a little tea pot") --> 'I'm A Little Tea Pot'
+//   capitalize('sHoRt AnD sToUt') --> 'Short And Stout'
